@@ -103,16 +103,14 @@ I'm a passionate **Flutter & Laravel developer** from **Nigeria 🇳🇬**, obse
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaleeldev&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeldev&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=khaleeldev&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=7c3aed" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=khaleeldev&theme=tokyonight&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleeldev&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleeldev&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&langs_count=8&cache_seconds=1800" />
 
 </div>
-
----
 
 
 ## 💭 Dev Quote of the Day
